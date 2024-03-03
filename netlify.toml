@@ -8,7 +8,7 @@ LANDING_BUTTON = "Click to steal some👆"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Notes for The Looming War Campaign"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "An Domhan"
+LANDING_PAGE = "\An Domhan.md"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Welcome"
 PYTHON_VERSION = "3.8"
