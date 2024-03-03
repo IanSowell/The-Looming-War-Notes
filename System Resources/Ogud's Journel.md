@@ -1,0 +1,2 @@
+-Salazar([[Aarakocra]] with a trident) and I have unsettled business in terms of a 1 on 1 fist to fist fight.
+-The Party I'm joining are hired by the family of [[Prince of Humans Elidron the Blue]]
